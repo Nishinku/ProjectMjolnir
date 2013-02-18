@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NM-HP6560-IT</Machine>
+    <WindowsUser>nm</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8D0902AAD771E7ADF8CECEDA1E9A13F048ED0D6008FE294E8F5C0882829CD519</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>be32638d-16bc-4377-a626-a291194620ec_1.0.0.0_neutral__qqcxn65m2zcq8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>be32638d-16bc-4377-a626-a291194620ec_qqcxn65m2zcq8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>be32638d-16bc-4377-a626-a291194620ec</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-16T15:28:20.094</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\bin\Debug\ProjectMjolnir.exe">
+      <PackagePath>ProjectMjolnir.exe</PackagePath>
+      <Modified>2013-02-16T15:56:27.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\bin\Debug\ProjectMjolnir.pdb">
+      <PackagePath>ProjectMjolnir.pdb</PackagePath>
+      <Modified>2013-02-16T15:56:27.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
+      <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
+      <Modified>2012-10-23T20:39:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-10-07T10:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-10-07T10:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-10-07T10:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.xml">
+      <PackagePath>SharpDX.Direct2D1.xml</PackagePath>
+      <Modified>2012-10-07T10:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+      <Modified>2012-10-07T10:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.xml">
+      <PackagePath>SharpDX.MediaFoundation.xml</PackagePath>
+      <Modified>2012-08-18T19:05:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.xml">
+      <PackagePath>SharpDX.XAudio2.xml</PackagePath>
+      <Modified>2012-08-18T19:05:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+      <Modified>2012-10-07T10:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.xml">
+      <PackagePath>SharpDX.XInput.xml</PackagePath>
+      <Modified>2012-08-18T19:05:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-05T21:25:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-05T21:25:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-05T21:25:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-05T21:25:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Content\Box\Grass_01.png">
+      <PackagePath>Content\Box\Grass_01.png</PackagePath>
+      <Modified>2013-02-16T15:22:21.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Content\Box\Void.png">
+      <PackagePath>Content\Box\Void.png</PackagePath>
+      <Modified>2013-02-16T15:41:06.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Content\Line.png">
+      <PackagePath>Content\Line.png</PackagePath>
+      <Modified>2013-02-15T22:29:08.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\Content\Player1.png">
+      <PackagePath>Content\Player1.png</PackagePath>
+      <Modified>2013-02-15T22:06:53.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nm\Dropbox\ProjectMjolnir\ProjectMjolnir\ProjectMjolnir\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-16T15:28:19.955</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
