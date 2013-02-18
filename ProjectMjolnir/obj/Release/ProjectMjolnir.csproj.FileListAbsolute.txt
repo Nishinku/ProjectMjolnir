@@ -23,14 +23,8 @@ C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\ProjectMjolnir.exe
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\ProjectMjolnir.pdb
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\SharpDX\en\SharpDX.Properties.Resources.resw
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\ProjectMjolnir.csproj.GenerateResource.Cache
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\SharpDX\priconfig.xml.intermediate
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\SharpDX\Resources.resfiles.intermediate
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\SharpDX.pri
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\SharpDX\LanguageQualifiers.txt
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\priconfig.xml.intermediate
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\layout.resfiles.intermediate
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\resources.resfiles.intermediate
-C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\pri.resfiles.intermediate
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\priconfig.xml
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\layout.resfiles
 C:\Nicky\ProjectMjolnir\ProjectMjolnir\obj\Release\resources.resfiles
